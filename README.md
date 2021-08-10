@@ -1,5 +1,3 @@
-# dummy source repo
+# dummy
 
-Source project for [dummy.github.io](https://dummy.github.io)
-
-> This file will appear on your profile page if the repository is named same as your username on GitHub
+Source project for a [dummy.github.io](https://dummy.github.io) project
