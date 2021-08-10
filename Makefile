@@ -1,15 +1,5 @@
 SHELL := /bin/bash
-GH_PAGE := ar2pi.github.io
-
-.SHELLFLAGS: -ceu
-
-.PHONY: build
-build:
-	mkdocs build
-
-.PHONY: serve
-serve:
-	mkdocs serve
+GH_PAGE := dummy.github.io
 
 .PHONY: deploy
 deploy:

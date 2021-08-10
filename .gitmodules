@@ -1,6 +1,6 @@
 # this file is generated when running `git submodule add -b main GH_PAGE_REPO`
 # you don't need to create it manually
-[submodule "GH_USERNAME.github.io"]
-	path = GH_USERNAME.github.io
-	url = git@github.com:GH_USERNAME/GH_USERNAME.github.io.git
+[submodule "dummy.github.io"]
+	path = dummy.github.io
+	url = git@github.com:dummy/dummy.github.io.git
 	branch = main
